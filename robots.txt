@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.taixingai.cn/sitemap.xml
